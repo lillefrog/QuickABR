@@ -1,0 +1,33 @@
+Hver fil skal have et internt timestamp
+
+Lav en bedre støj måling måske en der tager hele perioder og optager seperat for at få et mere realistisk intryk af støjen. Der kunne også være længere mellem hver måling for at kunne bruge det til støjmålingen?
+
+Check at programmet virker på computer uden driver
+
+Kan vi kontrollere om RM2 er tilsluttet mellem hver måling. nogle gange mister den kontakten uden at man opdager det.
+
+
+
+[Show data unit]
+
+Lav en mulighed for at lave linear interpolation!!
+
+skift farve på punkter der bliver ignoreret
+
+Check at Jevet marks virker
+
+copy opskrifter fra ark til excel
+
+[Kalibrering]
+
+Kalibreringen skulle chekke for clipping og harmonic distortion.
+
+Når man kalibrere en højtaler så fortsætter den automatisk til den næste istede for at stoppe selvom der kun er en højtaler tilsluttet.
+
+[Dokumentation]
+
+Beskriv hvordan støj målingen er lavet.
+
+[New features]
+
+kan vi bruge triggeren fra RM2 til at stimulere med lys.

@@ -1,0 +1,708 @@
+[Start Baseline]
+ Start = 12-01-2017 11:48:20
+ Filnavn = C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\
+ KalibFilePath = E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+ Glob_Stim_file = LongBurst_200Hz_80ms.AB9
+ Glob_log_file = C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log
+ kalibreret = True
+ kanal_out = 1
+ kanal_ind = 1
+ nAvrages = 96
+ Peak_Reject = 10
+ KlikAmp = 90
+[Start LogFile] 11:48:20
+  {11:48:20} {Set} Logfile Changed from E:\Documents\doc\Delphi Prog\ABR_CB10\LogFile.log to C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log
+  {11:48:20} {OPEN} 12-01-2017
+  {13:19:13} {EXIT}
+  {20:24:59} {Set} Logfile Changed from C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log to E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log
+  {20:24:59} {OPEN} 06/02/2017
+  {20:25:21} {Set} Number of avrages = 200
+  {20:27:21}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:27:27}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:27:31}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:28:04}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:28:15}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:28:23}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:28:32}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:28:43}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:28:49}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:28:51}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:28:55}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:29:01}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:29:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {20:29:16}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {20:29:20}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {20:29:24}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {20:29:30}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {20:29:50}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {20:29:55}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {20:29:58}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {20:30:02}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_85dB.CSV
+  {20:30:11}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_85dB.CSV
+  {20:30:19}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_85dB.CSV
+  {20:30:28}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_82dB.CSV
+  {20:30:39}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_85dB.CSV
+  {20:30:47}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_85dB.CSV
+  {20:30:55}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_82dB.CSV
+  {20:31:03}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_76dB.CSV
+  {20:31:10}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_76dB.CSV
+  {20:31:17}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_76dB.CSV
+  {20:31:40}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {20:31:45}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {20:31:50}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {20:31:54}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_82dB.CSV
+  {20:32:00}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {20:32:03}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {20:32:06}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {20:32:10}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_82dB.CSV
+  {20:32:12}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_76dB.CSV
+  {20:32:15}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_70dB.CSV
+  {20:32:20}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {20:32:24}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {20:32:29}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {20:32:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_82dB.CSV
+  {20:32:36}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_76dB.CSV
+  {20:32:42}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_70dB.CSV
+  {20:32:46}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_64dB.CSV
+  {20:32:56}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {20:33:01}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {20:33:04}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {20:33:07}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_82dB.CSV
+  {20:33:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_76dB.CSV
+  {20:33:11}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_70dB.CSV
+  {20:33:13}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_64dB.CSV
+  {20:33:26}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {20:33:31}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {20:33:34}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {20:33:39}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_82dB.CSV
+  {20:33:43}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_76dB.CSV
+  {20:33:46}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_70dB.CSV
+  {20:33:51}    {R} E:\downloads\0311_2016baty\0310_2016baty__20000Hz_64dB.CSV
+  {20:40:34} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {20:40:34} {OPEN} 06/02/2017
+  {20:41:52} {EXIT}
+  {20:50:02} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {20:50:02} {OPEN} 06/02/2017
+  {21:01:19} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {21:01:19} {OPEN} 06/02/2017
+  {21:07:34} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {21:07:34} {OPEN} 06/02/2017
+  {21:10:14} {EXIT}
+  {21:11:24} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {21:11:24} {OPEN} 06/02/2017
+  {21:18:43} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {21:18:43} {OPEN} 06/02/2017
+  {21:22:01} {EXIT}
+  {21:27:04} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {21:27:04} {OPEN} 06/02/2017
+  {21:27:51}    {R} E:\downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {21:27:54} {EXIT}
+  {14:07:47} {Set} Logfile Changed from E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log to F:\doc\Delphi Prog\ABR_CB11\LogFile.log
+  {14:07:47} {OPEN} 07-02-2017
+  {14:09:16} {EXIT}
+  {14:36:07} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {14:36:07} {OPEN} 07-02-2017
+  {14:38:52} {EXIT}
+  {14:47:41} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {14:47:41} {OPEN} 07-02-2017
+  {14:47:56} {EXIT}
+  {14:55:01} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {14:55:02} {OPEN} 07-02-2017
+  {14:55:14} {EXIT}
+  {15:08:05} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {15:08:05} {OPEN} 07-02-2017
+  {15:08:19} {EXIT}
+  {15:20:00} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {15:20:00} {OPEN} 07-02-2017
+  {15:20:12} {EXIT}
+  {15:21:07} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {15:21:07} {OPEN} 07-02-2017
+  {15:21:11} {EXIT}
+  {10:04:56} {Set} Logfile Changed from F:\doc\Delphi Prog\ABR_CB11\LogFile.log to E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log
+  {10:04:56} {OPEN} 08/02/2017
+  {10:15:30}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_94dB.CSV
+  {10:15:34}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_88dB.CSV
+  {10:15:39}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_82dB.CSV
+  {10:15:43}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_76dB.CSV
+  {10:15:46}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_70dB.CSV
+  {10:15:51}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_64dB.CSV
+  {10:16:00}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_94dB.CSV
+  {10:16:03}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_88dB.CSV
+  {10:16:06}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_82dB.CSV
+  {10:16:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_76dB.CSV
+  {10:16:12}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_70dB.CSV
+  {10:16:19}    {R} E:\downloads\0311_2016baty\0310_2016baty__30000Hz_64dB.CSV
+  {10:16:28}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_88dB.CSV
+  {10:16:31}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_82dB.CSV
+  {10:16:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_76dB.CSV
+  {10:16:37}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_70dB.CSV
+  {10:16:43}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_64dB.CSV
+  {10:16:47}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_58dB.CSV
+  {10:16:50}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_88dB.CSV
+  {10:16:54}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_82dB.CSV
+  {10:16:58}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_76dB.CSV
+  {10:17:01}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_70dB.CSV
+  {10:17:04}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_64dB.CSV
+  {10:17:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__40000Hz_58dB.CSV
+  {10:17:26}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_94dB.CSV
+  {10:17:29}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_88dB.CSV
+  {10:17:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_82dB.CSV
+  {10:17:41}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_76dB.CSV
+  {10:17:44}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_70dB.CSV
+  {10:17:50}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_64dB.CSV
+  {10:17:54}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_94dB.CSV
+  {10:17:58}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_88dB.CSV
+  {10:18:01}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_82dB.CSV
+  {10:18:07}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_76dB.CSV
+  {10:18:11}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_70dB.CSV
+  {10:18:16}    {R} E:\downloads\0311_2016baty\0310_2016baty__45000Hz_64dB.CSV
+  {10:18:29}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_94dB.CSV
+  {10:18:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_94dB.CSV
+  {10:18:38}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_82dB.CSV
+  {10:18:41}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_82dB.CSV
+  {10:18:44}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_76dB.CSV
+  {10:18:47}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_76dB.CSV
+  {10:18:50}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_70dB.CSV
+  {10:18:53}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_70dB.CSV
+  {10:18:57}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_64dB.CSV
+  {10:19:00}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_64dB.CSV
+  {10:19:04}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_58dB.CSV
+  {10:19:11}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_58dB.CSV
+  {10:19:14}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_52dB.CSV
+  {10:19:18}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_52dB.CSV
+  {10:19:22}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_46dB.CSV
+  {10:19:26}    {R} E:\downloads\0311_2016baty\0310_2016baty__50000Hz_46dB.CSV
+  {10:19:36}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_88dB.CSV
+  {10:19:39}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_82dB.CSV
+  {10:19:44}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_76dB.CSV
+  {10:19:48}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_70dB.CSV
+  {10:19:52}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_64dB.CSV
+  {10:19:57}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_58dB.CSV
+  {10:20:03}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_88dB.CSV
+  {10:20:06}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_82dB.CSV
+  {10:20:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_76dB.CSV
+  {10:20:13}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_70dB.CSV
+  {10:20:16}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_64dB.CSV
+  {10:20:19}    {R} E:\downloads\0311_2016baty\0310_2016baty__55000Hz_58dB.CSV
+  {10:20:28}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_94dB.CSV
+  {10:20:30}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_88dB.CSV
+  {10:20:36}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_85dB.CSV
+  {10:20:39}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_82dB.CSV
+  {10:20:43}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_76dB.CSV
+  {10:20:47}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_70dB.CSV
+  {10:20:51}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_64dB.CSV
+  {10:20:54}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_58dB.CSV
+  {10:20:57}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_52dB.CSV
+  {10:21:02}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_94dB.CSV
+  {10:21:06}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_88dB.CSV
+  {10:21:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_85dB.CSV
+  {10:21:12}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_82dB.CSV
+  {10:21:15}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_76dB.CSV
+  {10:21:18}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_70dB.CSV
+  {10:21:22}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_64dB.CSV
+  {10:21:27}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_58dB.CSV
+  {10:21:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__60000Hz_52dB.CSV
+  {10:21:40}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_94dB.CSV
+  {10:21:42}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_88dB.CSV
+  {10:21:45}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_82dB.CSV
+  {10:21:50}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_76dB.CSV
+  {10:21:53}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_70dB.CSV
+  {10:21:56}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_64dB.CSV
+  {10:22:02}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_58dB.CSV
+  {10:22:05}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_52dB.CSV
+  {10:22:08}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_94dB.CSV
+  {10:22:11}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_88dB.CSV
+  {10:22:14}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_82dB.CSV
+  {10:22:17}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_76dB.CSV
+  {10:22:20}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_70dB.CSV
+  {10:22:23}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_64dB.CSV
+  {10:22:26}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_58dB.CSV
+  {10:22:29}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_52dB.CSV
+  {10:22:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__70000Hz_52dB.CSV
+  {10:22:40}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_88dB.CSV
+  {10:22:43}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_82dB.CSV
+  {10:22:45}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_79dB.CSV
+  {10:22:49}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_76dB.CSV
+  {10:22:52}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_70dB.CSV
+  {10:22:56}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_64dB.CSV
+  {10:22:59}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_58dB.CSV
+  {10:23:03}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_88dB.CSV
+  {10:23:06}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_82dB.CSV
+  {10:23:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_79dB.CSV
+  {10:23:12}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_76dB.CSV
+  {10:23:15}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_70dB.CSV
+  {10:23:19}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_64dB.CSV
+  {10:23:23}    {R} E:\downloads\0311_2016baty\0310_2016baty__80000Hz_58dB.CSV
+  {10:23:27}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_94dB.CSV
+  {10:23:31}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_88dB.CSV
+  {10:23:33}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_82dB.CSV
+  {10:23:36}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_79dB.CSV
+  {10:23:39}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_76dB.CSV
+  {10:23:42}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_73dB.CSV
+  {10:23:47}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_70dB.CSV
+  {10:23:51}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_64dB.CSV
+  {10:23:53}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_58dB.CSV
+  {10:23:58}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_58dB.CSV
+  {10:24:03}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_94dB.CSV
+  {10:24:05}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_88dB.CSV
+  {10:24:09}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_82dB.CSV
+  {10:24:11}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_79dB.CSV
+  {10:24:14}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_76dB.CSV
+  {10:24:18}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_73dB.CSV
+  {10:24:20}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_70dB.CSV
+  {10:24:24}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_64dB.CSV
+  {10:24:29}    {R} E:\downloads\0311_2016baty\0310_2016baty__90000Hz_58dB.CSV
+  {10:43:21} {EXIT}
+  {17:21:56} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {17:21:56} {OPEN} 08/02/2017
+  {17:22:00} {EXIT}
+  {12:11:51} {Set} Logfile Changed from E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log to C:\Users\Brandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log
+  {12:11:51} {OPEN} 09-02-2017
+  {12:12:12} {EXIT}
+  {12:26:05} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {12:26:05} {OPEN} 09-02-2017
+  {12:26:48} {EXIT}
+  {12:54:32} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {12:54:32} {OPEN} 09-02-2017
+  {12:54:37} {EXIT}
+  {12:57:42} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {12:57:42} {OPEN} 09-02-2017
+  {12:59:19}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {12:59:55}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {13:00:08}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {13:00:31}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {13:01:35}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {13:02:56}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {13:04:07} {EXIT}
+  {14:35:02} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {14:35:02} {OPEN} 09-02-2017
+  {14:35:06} {EXIT}
+  {14:37:19} {Set} !!calibration Failed E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Calib_frog_headphone.csv
+  {14:37:19} {OPEN} 09-02-2017
+  {14:37:40}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_94dB.CSV
+  {14:37:47}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_91dB.CSV
+  {14:37:59}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__10000Hz_88dB.CSV
+  {14:38:09}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {14:38:15}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {14:38:21}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {14:38:27}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_82dB.CSV
+  {14:38:32}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_76dB.CSV
+  {14:38:38}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_70dB.CSV
+  {14:38:44}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_64dB.CSV
+  {14:40:08}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_94dB.CSV
+  {14:40:15}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_91dB.CSV
+  {14:40:19}    {R} C:\Users\Brandt\Downloads\0311_2016baty\0310_2016baty__20000Hz_88dB.CSV
+  {14:43:01} {EXIT}
+  {17:25:15} {Set} Logfile Changed from C:\Users\Brandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log to E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log
+  {17:25:15} {OPEN} 23/03/2017
+  {17:25:57} {Set} Stimfile Loaded = Click_0-02ms.AB9
+  {17:26:21} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {17:28:53} {EXIT}
+  {17:29:29} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {17:29:29} {OPEN} 23/03/2017
+  {17:30:08} {Set} Stimfile Loaded = MBurst_1000Hz_2ms.AB9
+  {17:32:23} {Set} NumberOf_Samples = 2000
+  {17:32:29} {Set} Stimfile Loaded = Click_0-02ms.AB9
+  {17:34:44}    {R} E:\Documents\doc\Delphi Prog\ABR_CB11\temp__0Hz_70dB.CSV
+  {17:35:44} {Set} KlikAmp set to = 90
+  {17:38:37} {Set} Stimfile Loaded = LongTest_1000Hz_500ms.AB9
+  {17:39:01} {Set} NumberOf_Samples = 20000
+  {17:39:18} {Set} Number of avrages = 40
+  {17:39:32} {Set} Number of avrages = 40
+  {17:40:12}    {R} E:\Documents\doc\Delphi Prog\ABR_CB11\temp__0Hz_70dB.CSV
+  {17:40:23} {Set} Level found = -,- dB
+  {17:40:51} {Set} KlikAmp set to = 80
+  {17:42:39} {Set} KlikAmp set to = 10
+  {17:43:08} {EXIT}
+  {17:48:21} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {17:48:21} {OPEN} 23/03/2017
+  {17:48:42} {Set} KlikAmp set to = 10
+  {17:49:07} {Set} KlikAmp set to = 50
+  {17:50:35} {Set} KlikAmp set to = 90
+  {17:52:46} {EXIT}
+  {10:02:55} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:02:56} {OPEN} 24/03/2017
+  {10:02:57} {EXIT}
+  {10:04:58} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:04:58} {OPEN} 24/03/2017
+  {10:05:00} {EXIT}
+  {10:17:04} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:17:04} {OPEN} 24/03/2017
+  {10:18:36} {EXIT}
+  {10:18:59} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:18:59} {OPEN} 24/03/2017
+  {10:19:11} {Set} KlikAmp set to = 90
+  {10:19:11} {Set} KlikCorrection set to = 90
+  {10:20:04} {EXIT}
+  {10:23:52} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:23:52} {OPEN} 24/03/2017
+  {10:24:07} {Set} KlikAmp set to = 20
+  {10:24:07} {Set} KlikCorrection set to = 20
+  {10:26:49} {EXIT}
+  {10:26:54} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:26:54} {OPEN} 24/03/2017
+  {10:27:14} {EXIT}
+  {10:28:06} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:28:06} {OPEN} 24/03/2017
+  {10:28:36} {EXIT}
+  {10:39:07} {Set} calibration Loaded E:\Documents\doc\Delphi Prog\ABR_CB10\Kalibreringsfiler\Zero.csv
+  {10:39:07} {OPEN} 24/03/2017
+  {10:39:35} {EXIT}
+  {11:22:38} {Set} Logfile Changed from E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log to C:\Users\Brandt\Desktop\ABR_CB11\LogFile.log
+  {11:22:38} {OPEN} 24-03-2017
+  {11:23:09} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {11:23:30} {EXIT}
+  {11:23:42} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {11:23:42} {OPEN} 24-03-2017
+  {11:23:56} {EXIT}
+  {12:04:28} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:04:28} {OPEN} 24-03-2017
+  {13:06:45} {EXIT}
+  {13:07:35} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:07:35} {OPEN} 24-03-2017
+  {13:08:14} {Set} KlikAmp set to = 50
+  {13:08:14} {Set} KlikCorrection set to = 50
+  {13:08:41} {Set} KlikAmp set to = 50
+  {13:08:41} {Set} KlikCorrection set to = 50
+  {13:09:23} {EXIT}
+  {13:36:29} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:36:29} {OPEN} 24-03-2017
+  {13:46:51} {EXIT}
+  {13:50:30} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:50:30} {OPEN} 24-03-2017
+  {13:51:22}    {R} C:\Users\Brandt\Desktop\ABR_CB11\stim\test__0Hz_70dB.CSV
+  {13:52:35}    {R} C:\Users\Brandt\Desktop\ABR_CB11\stim\test__0Hz_80dB.CSV
+  {13:53:43}    {R} C:\Users\Brandt\Desktop\ABR_CB11\stim\test__0Hz_70dB.CSV
+  {13:55:34} {Set} KlikAmp set to = 50
+  {13:55:34} {Set} KlikCorrection set to = 50
+  {13:56:07} {Set} KlikAmp set to = 50
+  {13:56:07} {Set} KlikCorrection set to = 50
+  {13:58:41} {Set} Level found = -,- dB
+  {14:02:51} {EXIT}
+  {14:31:08} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {14:31:08} {OPEN} 24-03-2017
+  {14:31:48} {Set} Start test Microphone 
+  {14:31:51} {Set} Level found = 0.0 dB
+  {14:32:12} {Set} Level found = -,- dB
+  {14:32:15} {Set} Start test Microphone 
+  {14:32:26} {Set} Start test Microphone 
+  {14:32:52} {Set} Start test Microphone 
+  {14:33:42} {EXIT}
+  {14:34:07} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {14:34:07} {OPEN} 24-03-2017
+  {14:34:14} {Set} Start test Microphone 
+  {14:36:16} {Set} Microphone Scale Factor set to = -4.00
+  {14:36:23} {Set} Microphone Scale Factor set to = -4.40
+  {14:37:14} {Set} Level found = 11.0 dB
+  {14:37:50} {Set} Level found = -,- dB
+  {14:37:53} {Set} Level found = -,- dB
+  {14:38:34} {Set} KlikAmp set to = 70
+  {14:38:34} {Set} KlikCorrection set to = 70
+  {14:38:54} {Set} KlikAmp set to = 90
+  {14:38:54} {Set} KlikCorrection set to = 90
+  {14:39:40} {Set} KlikAmp set to = 100
+  {14:39:40} {Set} KlikCorrection set to = 100
+  {14:39:51} {Set} KlikAmp set to = 90
+  {14:39:51} {Set} KlikCorrection set to = 90
+  {14:47:58} {EXIT}
+  {14:53:12} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {14:53:12} {OPEN} 24-03-2017
+  {14:53:21} {Set} KlikAmp set to = 90
+  {14:53:21} {Set} KlikCorrection set to = 90
+  {15:56:01} {EXIT}
+  {15:56:41} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {15:56:42} {OPEN} 24-03-2017
+  {15:56:53} {Set} KlikAmp set to = 90
+  {15:56:53} {Set} KlikCorrection set to = 90
+  {15:57:11} {Set} KlikAmp set to = 90
+  {15:57:11} {Set} KlikCorrection set to = 90
+  {15:57:44} {Set} Level found = -,- dB
+  {15:57:46} {Set} Level found = -,- dB
+  {15:57:54} {EXIT}
+  {16:05:31} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:05:31} {OPEN} 24-03-2017
+  {16:05:50} {Set} KlikAmp set to = 90
+  {16:05:50} {Set} KlikCorrection set to = 90
+  {16:06:29} {EXIT}
+  {16:15:08} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:15:08} {OPEN} 24-03-2017
+  {16:15:15} {Set} KlikAmp set to = 90
+  {16:15:15} {Set} KlikCorrection set to = 90
+  {16:15:46} {EXIT}
+  {16:17:51} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:17:51} {OPEN} 24-03-2017
+  {16:18:03} {Set} KlikAmp set to = 90
+  {16:18:03} {Set} KlikCorrection set to = 90
+  {16:18:14} {EXIT}
+  {16:19:42} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:19:42} {OPEN} 24-03-2017
+  {16:19:50} {Set} KlikAmp set to = 90
+  {16:19:50} {Set} KlikCorrection set to = 90
+  {16:20:37} {EXIT}
+  {16:23:46} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:23:46} {OPEN} 24-03-2017
+  {16:23:54} {EXIT}
+  {16:25:16} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:25:17} {OPEN} 24-03-2017
+  {16:25:18} {EXIT}
+  {16:27:49} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:27:49} {OPEN} 24-03-2017
+  {16:27:53} {EXIT}
+  {16:28:40} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:28:40} {OPEN} 24-03-2017
+  {16:28:42} {EXIT}
+  {16:56:39} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {16:56:39} {OPEN} 24-03-2017
+  {16:56:50} {EXIT}
+  {17:23:09} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:23:09} {OPEN} 24-03-2017
+  {17:23:27} {EXIT}
+  {17:30:28} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:30:29} {OPEN} 24-03-2017
+  {17:31:30} {EXIT}
+  {17:31:35} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:31:35} {OPEN} 24-03-2017
+  {17:31:46} {Set} KlikAmp set to = 90
+  {17:31:46} {Set} KlikCorrection set to = 90
+  {17:32:08} {EXIT}
+  {17:35:14} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:35:14} {OPEN} 24-03-2017
+  {17:35:22} {Set} KlikAmp set to = 90
+  {17:35:22} {Set} KlikCorrection set to = 90
+  {17:36:05} {EXIT}
+  {17:40:26} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:40:26} {OPEN} 24-03-2017
+  {17:40:39} {Set} KlikAmp set to = 90
+  {17:40:39} {Set} KlikCorrection set to = 90
+  {17:41:41} {EXIT}
+  {17:42:51} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:42:51} {OPEN} 24-03-2017
+  {17:42:57} {Set} KlikAmp set to = 90
+  {17:42:57} {Set} KlikCorrection set to = 90
+  {17:43:27} {EXIT}
+  {17:48:18} {Set} calibration Loaded C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:48:18} {OPEN} 24-03-2017
+  {17:48:24} {Set} KlikAmp set to = 90
+  {17:48:24} {Set} KlikCorrection set to = 90
+  {17:50:34} {EXIT}
+  {14:42:18} {Set} Logfile Changed from C:\Users\Brandt\Desktop\ABR_CB11\LogFile.log to C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log
+  {14:42:18} {OPEN} 04-04-2017
+  {14:42:34} {EXIT}
+  {10:36:25} {Set} !!calibration Failed C:\Users\Brandt\Desktop\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {10:36:25} {OPEN} 05-04-2017
+  {10:36:43} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {10:44:53}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:44:58}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:45:02}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:45:10}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:45:20}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:45:25}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:45:30}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:45:35}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:45:45}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {10:45:52}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {10:45:57}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {10:46:01}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {10:46:10}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {10:46:14}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {10:46:20}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {10:46:24}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {10:46:29}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {10:46:34}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {10:46:38}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {10:46:47}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {10:49:18}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:49:22}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:49:31}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:49:37}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:49:45}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_108dB.CSV
+  {10:49:51}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:49:55}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:50:02}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {10:50:06}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_98dB.CSV
+  {11:02:24}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {11:02:28}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {11:02:32}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {11:02:37}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_88dB.CSV
+  {11:02:42}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {11:02:46}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {11:02:50}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {11:02:55}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_78dB.CSV
+  {11:03:02}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {11:03:08}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {11:03:15}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {11:03:20}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\mus49_10k__0Hz_68dB.CSV
+  {11:04:49} {EXIT}
+  {11:22:39} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {11:22:39} {OPEN} 05-04-2017
+  {11:23:41} {EXIT}
+  {11:26:15} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {11:26:16} {OPEN} 05-04-2017
+  {12:16:19} {EXIT}
+  {12:16:38} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:16:38} {OPEN} 05-04-2017
+  {12:16:41} {EXIT}
+  {12:29:32} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:29:32} {OPEN} 05-04-2017
+  {12:29:55}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_125dB.CSV
+  {12:36:14} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:36:14} {OPEN} 05-04-2017
+  {12:44:39} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:44:39} {OPEN} 05-04-2017
+  {12:48:16} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:48:16} {OPEN} 05-04-2017
+  {13:00:49} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:00:49} {OPEN} 05-04-2017
+  {13:04:06} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:04:07} {OPEN} 05-04-2017
+  {13:08:23} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:08:23} {OPEN} 05-04-2017
+  {13:08:48} {EXIT}
+  {13:10:04} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:10:04} {OPEN} 05-04-2017
+  {13:14:21} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:14:21} {OPEN} 05-04-2017
+  {13:14:45}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_125dB.CSV
+  {13:14:52}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_115dB.CSV
+  {13:14:57}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_115dB.CSV
+  {13:15:05}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_105dB.CSV
+  {13:15:11}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_105dB.CSV
+  {13:15:20}    {R} C:\test\ABR_Mouse\Mouse10aug\Mus49\40k\mus49_40k__0Hz_125dB.CSV
+  {13:16:36} {EXIT}
+  {13:16:42} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:16:42} {OPEN} 05-04-2017
+  {13:18:02} {EXIT}
+  {13:18:08} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:18:09} {OPEN} 05-04-2017
+  {13:20:51} {EXIT}
+  {13:25:32} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:25:32} {OPEN} 05-04-2017
+  {13:26:00} {EXIT}
+  {13:26:44} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {13:26:44} {OPEN} 05-04-2017
+  {14:36:09} {EXIT}
+  {14:36:53} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {14:36:53} {OPEN} 05-04-2017
+  {14:37:46} {EXIT}
+  {12:31:31} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:31:31} {OPEN} 25-04-2017
+  {12:32:33}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_113dB.CSV
+  {12:32:38}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_108dB.CSV
+  {12:32:45}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_103dB.CSV
+  {12:32:50}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_108dB.CSV
+  {12:32:55}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_108dB.CSV
+  {12:33:33} {EXIT}
+  {12:37:12} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:37:12} {OPEN} 25-04-2017
+  {12:37:53}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_98dB.CSV
+  {12:37:57}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_88dB.CSV
+  {12:38:00}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_78dB.CSV
+  {12:38:08}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_113dB.CSV
+  {12:38:13}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_108dB.CSV
+  {12:38:16}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_103dB.CSV
+  {12:38:19}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_98dB.CSV
+  {12:38:23}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_103dB.CSV
+  {12:38:29}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_103dB.CSV
+  {12:38:37}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_88dB.CSV
+  {12:38:40}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_78dB.CSV
+  {12:38:45}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_113dB.CSV
+  {12:38:49}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_108dB.CSV
+  {12:38:52}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_103dB.CSV
+  {12:38:56}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_98dB.CSV
+  {12:38:59}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_113dB.CSV
+  {12:39:02}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_108dB.CSV
+  {12:39:04}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_103dB.CSV
+  {12:39:09}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_98dB.CSV
+  {12:39:18}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_88dB.CSV
+  {12:39:25}    {R} C:\test\ABR_Mouse\Mouse04Aug01\Mus35\10K\Mus35_10Kb__0Hz_78dB.CSV
+  {12:43:08} {EXIT}
+  {11:26:32} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {11:26:32} {OPEN} 24-05-2017
+  {11:32:32} {EXIT}
+  {13:27:12} {Set} Logfile Changed from C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log to E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log
+  {13:27:12} {OPEN} 09/06/2017
+  {13:28:06} {EXIT}
+  {09:27:34} {Set} Logfile Changed from E:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log to C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\LogFile.log
+  {09:27:34} {OPEN} 16-06-2017
+  {09:33:24} {EXIT}
+  {09:33:29} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {09:33:29} {OPEN} 16-06-2017
+  {09:33:41} {EXIT}
+  {09:34:20} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {09:34:20} {OPEN} 16-06-2017
+  {09:35:37} {Set} NumberOf_Samples = 2000
+  {09:35:48} {Set} Number of avrages = 800
+  {09:35:57} {Set} Number of avrages = 800
+  {09:38:58} {Set} Stimfile Loaded = ampTest_5ms.AB9
+  {09:40:03} {EXIT}
+  {09:41:25} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {09:41:26} {OPEN} 16-06-2017
+  {09:46:46}    {R} C:\Users\chbrandt\Desktop\test\test__0Hz_100dB.CSV
+  {09:48:39}    {R} C:\Users\chbrandt\Desktop\test\test__0Hz_110dB.CSV
+  {09:50:52}    {R} C:\Users\chbrandt\Desktop\test\test2__0Hz_100dB.CSV
+  {09:54:12}    {R} C:\Users\chbrandt\Desktop\test\test3__0Hz_100dB.CSV
+  {09:54:19} {EXIT}
+  {09:57:00} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {09:57:00} {OPEN} 16-06-2017
+  {09:57:44} {EXIT}
+  {10:02:02} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {10:02:02} {OPEN} 16-06-2017
+  {10:03:58}    {R} C:\Users\chbrandt\Desktop\test\test4__0Hz_100dB.CSV
+  {10:06:53}    {R} C:\Users\chbrandt\Desktop\test\test5__0Hz_100dB.CSV
+  {10:14:02} {Set} Channel in = 17
+  {10:15:38}    {R} C:\Users\chbrandt\Desktop\test\test7__0Hz_100dB.CSV
+  {10:18:38} {EXIT}
+  {10:18:48} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {10:18:48} {OPEN} 16-06-2017
+  {10:20:34}    {R} C:\Users\chbrandt\Desktop\test\test8__0Hz_100dB.CSV
+  {10:22:44}    {R} C:\Users\chbrandt\Desktop\test\test8__0Hz_100dB.CSV
+  {10:26:05} {EXIT}
+  {10:28:28} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {10:28:28} {OPEN} 16-06-2017
+  {10:30:34} {EXIT}
+  {10:30:42} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {10:30:42} {OPEN} 16-06-2017
+  {10:33:24} {Set} Stimfile Loaded = atest_500Hz_15ms.AB9
+  {10:38:25}    {R} C:\Users\chbrandt\Desktop\test\test11__0Hz_60dB.CSV
+  {10:40:04}    {R} C:\Users\chbrandt\Desktop\test\test12__0Hz_50dB.CSV
+  {10:45:08}    {R} C:\Users\chbrandt\Desktop\test\test12__0Hz_40dB.CSV
+  {10:48:24}    {R} C:\Users\chbrandt\Desktop\test\test12__0Hz_80dB.CSV
+  {10:51:15}    {R} C:\Users\chbrandt\Desktop\test\test12__0Hz_60dB.CSV
+  {11:04:51} {EXIT}
+  {11:10:01} {Set} calibration Loaded C:\Users\chbrandt\Documents\Doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {11:10:01} {OPEN} 16-06-2017
+  {11:12:13}    {R} C:\Users\chbrandt\Desktop\test\test13__0Hz_60dB.CSV
+  {11:46:03}    {R} C:\Users\chbrandt\Desktop\test\test13__0Hz_80dB.CSV
+  {11:49:16}    {R} C:\Users\chbrandt\Desktop\test\test13__0Hz_100dB.CSV
+  {11:59:21}    {R} C:\Users\chbrandt\Desktop\test\test13__0Hz_90dB.CSV
+  {12:06:31} {EXIT}
+  {08:37:31} {Set} Logfile Changed from C:\Users\Brandt\Documents\doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Calib_Headphone02.csv to F:\Documents\doc\Delphi Prog\ABR_CB11\LogFile.log
+  {08:37:31} {OPEN} 02/01/2018
+  {08:37:43} {Set} calibration Loaded F:\Documents\doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {17:22:59} {EXIT}
+  {07:56:19} {Set} calibration Loaded F:\Documents\doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {07:56:19} {OPEN} 20/05/2018
+  {12:12:02} {EXIT}
+  {12:33:03} {Set} calibration Loaded F:\Documents\doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {12:33:03} {OPEN} 20/05/2018
+  {11:54:13} {EXIT}
+  {18:29:02} {Set} calibration Loaded F:\Documents\doc\Delphi Prog\ABR_CB11\Kalibreringsfiler\Zero.csv
+  {18:29:02} {OPEN} 22/05/2018
+  {18:46:02}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_67dB.CSV
+  {18:46:06}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_57dB.CSV
+  {18:46:09}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_52dB.CSV
+  {18:46:13}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_52dB.CSV
+  {18:46:17}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_47dB.CSV
+  {18:46:26}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_42dB.CSV
+  {18:46:37}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_67dB.CSV
+  {18:46:41}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_57dB.CSV
+  {18:46:45}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_52dB.CSV
+  {18:46:49}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_47dB.CSV
+  {18:46:53}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\1000Hz5ms\Gekko01_1000Hz_5ms_0Hz_42dB.CSV
+  {19:09:14}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\2000Hz5ms\Gekko01_2000Hz_5ms_0Hz_59dB.CSV
+  {19:09:17}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\2000Hz5ms\Gekko01_2000Hz_5ms_0Hz_54dB.CSV
+  {19:09:21}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\2000Hz5ms\Gekko01_2000Hz_5ms_0Hz_49dB.CSV
+  {19:09:26}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\2000Hz5ms\Gekko01_2000Hz_5ms_0Hz_59dB.CSV
+  {19:09:30}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\2000Hz5ms\Gekko01_2000Hz_5ms_0Hz_54dB.CSV
+  {19:09:36}    {R} U:\data\Raw Data\Gekko\2010\Gekko1_2010\2000Hz5ms\Gekko01_2000Hz_5ms_0Hz_49dB.CSV
+  {20:58:07} {EXIT}
